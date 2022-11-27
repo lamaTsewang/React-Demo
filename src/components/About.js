@@ -19,9 +19,8 @@
             </h2>
             <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
             <div className="accordion-body" style={myStyle}>
-                <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element.
-                 These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. 
-                 It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                <strong>PERSONAL PROFILE </strong> To be flexible with the Institute where I can implement my skills to have an effective outcome. 
+                Focus on learning and gaining experience with collecting information enhancement, productivity, and reputation to an individual.  
             </div>
             </div>
         </div>
@@ -33,9 +32,10 @@
             </h2>
             <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div className="accordion-body" style={myStyle}>
-                <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element.
-                 These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables.
-                  It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                <strong>Personal Profile:- .</strong>Time management, effectiveness, teamwork, fast learnings are where I fit the most and I’m good at. I always love to accept new ideas and their future implementation.
+                 Coming from a technical background I consist list all basic understanding and knowledge about OS, Networking, Electronic, Software, Hardware, and more. Time management, effectiveness, teamwork, fast 
+                 learnings are where I fit the most and I’m good at. I always love to accept new ideas and their future implementation. Coming from a technical background I consist list all basic understanding and
+                  knowledge about OS, Networking, Electronic, Software, Hardware, and more. 
                   <table class="table" style={myStyle}>
             <thead>
                 <tr>
@@ -77,9 +77,7 @@
             </h2>
             <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
             <div className="accordion-body" style={myStyle}>
-                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element.
-                 These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. 
-                 It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                
                  <div class="list-group" style={myStyle}>
                    
                         <div class="d-flex w-100 justify-content-between">
