@@ -80,18 +80,18 @@
                 
                  <div class="list-group" style={myStyle}>
                    
-                        <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Evemoo Tech</h5>
+                        <div className="d-flex w-100 justify-content-between">
+                        <h5 className="mb-1">Evemoo Tech</h5>
                         <small className='text-muted'>3 Months</small>
                         </div>
                         <p class="mb-1">Php Laravel</p>
                         <small className="text-muted">Intern</small>
                    
-                        <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">KTM-Doodles Creatice Studio</h5>
+                        <div className="d-flex w-100 justify-content-between">
+                        <h5 className="mb-1">KTM-Doodles Creatice Studio</h5>
                         <small className="text-muted">8 Months</small>
                         </div>
-                        <p class="mb-1">Java Script, React, ES6+</p>
+                        <p className="mb-1">Java Script, React, ES6+</p>
                         <small className="text-muted">Assistance Web Application Developer</small>
             
                     </div>
